@@ -3,6 +3,6 @@ This project is a mini version of a working blogging website. This project is do
 
 ## Live-Preview
 
-[Click Here to View Live Preview](https://tranquil-ocean-89930.herokuapp.com/)
+[Click Here to View Live Preview](https://daily-journal-blog-59750.herokuapp.com/)
 
 
